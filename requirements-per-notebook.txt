@@ -1,0 +1,89 @@
+# Explainable AI
+Explainable AI/GradcamPlusPlus-NET++-Efficientnet-b3-XAI.ipynb
+torch>=2.0.0
+torchvision>=0.15.0
+monai>=1.3.0
+numpy>=1.23.0
+matplotlib>=3.7.0
+opencv-python>=4.7.0
+Pillow>=9.5.0
+tqdm>=4.65.0
+
+# Preprocessing
+Preprocessing/Grain-free image generation.ipynb
+numpy>=1.23.0
+opencv-python>=4.7.0
+Pillow>=9.5.0
+tqdm>=4.65.0
+pandas>=2.0.0
+
+Preprocessing/Heatmaps_Grad_CAM_&Grad_CAM++&_Saliency_gradient_based.ipynb
+torch>=2.0.0
+torchvision>=0.15.0
+monai>=1.3.0
+numpy>=1.23.0
+matplotlib>=3.7.0
+opencv-python>=4.7.0
+Pillow>=9.5.0
+tqdm>=4.65.0
+
+Preprocessing/Split_image_into_ROI_and_Non_ROI.ipynb
+numpy>=1.23.0
+opencv-python>=4.7.0
+Pillow>=9.5.0
+tqdm>=4.65.0
+pandas>=2.0.0
+
+Preprocessing/stain_normalization.ipynb
+opencv-python>=4.7.0
+staintools>=2.1.2
+spams
+torchstain>=1.3.0
+numpy>=1.23.0
+matplotlib>=3.7.0
+pandas>=2.0.0
+
+# Classification
+classification/MONAI-DenseNet121/monai_Macenko_ROI_mask2.ipynb
+torch>=2.0.0
+torchvision>=0.15.0
+monai>=1.3.0
+numpy>=1.23.0
+matplotlib>=3.7.0
+opencv-python>=4.7.0
+pandas>=2.0.0
+tqdm>=4.65.0
+
+classification/domain-independent/Logistic regression- MACENKO.ipynb
+scikit-learn>=1.2.0
+numpy>=1.23.0
+pandas>=2.0.0
+matplotlib>=3.7.0
+staintools>=2.1.2
+
+classification/domain-independent/RF - DT- MACENKO.ipynb
+scikit-learn>=1.2.0
+numpy>=1.23.0
+pandas>=2.0.0
+matplotlib>=3.7.0
+staintools>=2.1.2
+
+classification/domain-specific/MACENKO SET.ipynb
+scikit-learn>=1.2.0
+numpy>=1.23.0
+pandas>=2.0.0
+matplotlib>=3.7.0
+opencv-python>=4.7.0
+staintools>=2.1.2
+
+# Semantic Segmentation
+semantic-segmentation/UNet++_EfficientnetB3.ipynb
+torch>=2.0.0
+torchvision>=0.15.0
+segmentation-models-pytorch>=0.3.3
+efficientnet-pytorch>=0.7.1
+monai>=1.3.0
+numpy>=1.23.0
+matplotlib>=3.7.0
+opencv-python>=4.7.0
+tqdm>=4.65.0
